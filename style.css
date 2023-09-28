@@ -1,0 +1,31 @@
+body {
+	background-color: powderblue;
+	font-family: "Arial", sans-serif;
+
+}
+
+h1, h2{
+	color: navy;
+	font-size: 200%;
+	background-color: darkred;
+	padding: 50px;
+	margin: 50px;
+	border: 5px solid white;
+}
+p {
+	font-family: cursive;
+	background-color: darkgray;
+}
+img {
+	width: 400px;
+	display: inline;
+}
+#smallimage {
+	width: 100px;
+}
+.football {
+	color: royalblue;
+}
+a:link {
+	color: white;
+}
